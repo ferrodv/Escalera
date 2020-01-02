@@ -1,0 +1,11 @@
+C:\Users\ferdy\OneDrive\Escritorio\Developer\Proyectos\Escalera\bin\Debug\Escalera.exe.config
+C:\Users\ferdy\OneDrive\Escritorio\Developer\Proyectos\Escalera\bin\Debug\Escalera.exe
+C:\Users\ferdy\OneDrive\Escritorio\Developer\Proyectos\Escalera\bin\Debug\Escalera.pdb
+C:\Users\ferdy\OneDrive\Escritorio\Developer\Proyectos\Escalera\obj\Debug\Escalera.csprojAssemblyReference.cache
+C:\Users\ferdy\OneDrive\Escritorio\Developer\Proyectos\Escalera\obj\Debug\Escalera.Form1.resources
+C:\Users\ferdy\OneDrive\Escritorio\Developer\Proyectos\Escalera\obj\Debug\Escalera.Properties.Resources.resources
+C:\Users\ferdy\OneDrive\Escritorio\Developer\Proyectos\Escalera\obj\Debug\Escalera.csproj.GenerateResource.cache
+C:\Users\ferdy\OneDrive\Escritorio\Developer\Proyectos\Escalera\obj\Debug\Escalera.csproj.CoreCompileInputs.cache
+C:\Users\ferdy\OneDrive\Escritorio\Developer\Proyectos\Escalera\obj\Debug\Escalera.exe
+C:\Users\ferdy\OneDrive\Escritorio\Developer\Proyectos\Escalera\obj\Debug\Escalera.pdb
+C:\Users\ferdy\OneDrive\Escritorio\Developer\Proyectos\Escalera\obj\Debug\Escalera.Forms.Juego.resources
